@@ -4,9 +4,9 @@ Simple project that processes images using the **pytesseract** and **OpenCV** li
 
 ![analysis](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/OCR%20(image%20to%20text)/Screen%20Shot%202020-09-04%20at%2000.58.05.png)
 
-![result1](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/OCR%20(image%20to%20text)/Screen%20Shot%202020-09-04%20at%2000.58.05.png)
+![result1](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/OCR%20(image%20to%20text)/Screen%20Shot%202020-09-04%20at%2000.57.02.png)
 
-![result2](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/OCR%20(image%20to%20text)/Screen%20Shot%202020-09-04%20at%2000.58.05.png)
+![result2](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/OCR%20(image%20to%20text)/Screen%20Shot%202020-09-04%20at%2000.55.50.png)
 
-![result3](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/OCR%20(image%20to%20text)/Screen%20Shot%202020-09-04%20at%2000.58.05.png)
+![result3](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/OCR%20(image%20to%20text)/Screen%20Shot%202020-09-04%20at%2000.55.12.png)
 
