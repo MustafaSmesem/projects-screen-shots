@@ -13,4 +13,9 @@ Spook is characterized by its ability to process a large number of videos and ca
 ![Albums Edit](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.16.png) | ![Albums Image](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.24.png)
 -------- | --------
 
-![File Anlysis](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.37.png) | ![File Anlysis Result](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.14.01.png)
+![File Anlysis](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.37.png) 
+
+![File Anlysis Result](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.14.53.png) | ![File Anlysis Result](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.14.01.png)
+-------- | --------
+
+![QT Client](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-03%20at%2008.48.14.png)
