@@ -8,7 +8,9 @@ Spook is characterized by its ability to process a large number of videos and ca
 
 > ![Spook Dashboard](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.11.58.png)
 
-![Albums](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.07.png) | ![Albums Edit](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.16.png)
+> ![Albums](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.07.png)
+
+![Albums Edit](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.16.png) | ![Albums Image](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.24.png)
 -------- | --------
 
-> ![Albums Image](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.24.png)
+![File Anlysis](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.12.37.png) | ![File Anlysis Result](https://github.com/MustafaSmesem/projects-screen-shots/blob/master/spook(cpp)/Screen%20Shot%202020-09-02%20at%2014.14.01.png)
